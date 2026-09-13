@@ -1,0 +1,1 @@
+import{jsxDEV as rjsxDEV,Fragment}from'react/jsx-dev-runtime';import{LocalizedElement}from'./localized-element';export{Fragment};export const jsxDEV=(t:any,p:any,k:any,s:any,src:any,self:any)=>typeof t==='string'&&t!=='style'&&t!=='script'?rjsxDEV(LocalizedElement,{...p,elementType:t},k,s,src,self):rjsxDEV(t,p,k,s,src,self);

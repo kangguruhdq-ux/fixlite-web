@@ -1,0 +1,5 @@
+{
+  "name": "@pixellift/config",
+  "version": "1.0.0",
+  "main": "./tailwind.base.js"
+}
