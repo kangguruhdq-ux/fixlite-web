@@ -121,6 +121,7 @@ export const RemoveBackgroundPanel: React.FC<RemoveBackgroundPanelProps> = ({
               className="w-full text-xs font-medium py-2 px-2.5 rounded-xl border border-slate-200 dark:border-slate-700 bg-slate-50 dark:bg-slate-800/80 text-slate-800 dark:text-slate-200 focus:outline-none focus:ring-1 focus:ring-brand-500"
             >
               <option value="ISNet">⚡ IS-Net DIS5K ({t('Presisi Tinggi - Rekomendasi', 'High Precision - Recommended')})</option>
+              <option value="RMBG14">🌟 BRIA RMBG-1.4 ({t('Studio Matting & Anti-Bayangan', 'Studio Matting & Anti-Shadow')})</option>
               <option value="U2NetHumanSeg">👤 U2Net Human Seg ({t('Potret & Orang', 'Portraits & People')})</option>
               <option value="BiRefNet">🧠 BiRefNet General ({t('1024px Swin-Tiny', '1024px Swin-Tiny')})</option>
               <option value="U2Net">🚀 U2Net Standard ({t('Ringan & Cepat', 'Light & Fast')})</option>
